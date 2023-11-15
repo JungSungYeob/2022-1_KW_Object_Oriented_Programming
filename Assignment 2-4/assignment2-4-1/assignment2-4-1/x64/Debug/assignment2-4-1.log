@@ -1,0 +1,4 @@
+﻿  assignment2-4-1.cpp
+C:\Users\sung8\OneDrive\바탕 화면\객프실\week9\assignment2-4-1\assignment2-4-1\assignment2-4-1.cpp(29,24): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\sung8\OneDrive\바탕 화면\객프실\week9\assignment2-4-1\assignment2-4-1\assignment2-4-1.cpp(29,39): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  assignment2-4-1.vcxproj -> C:\Users\sung8\OneDrive\바탕 화면\객프실\week9\assignment2-4-1\x64\Debug\assignment2-4-1.exe
